@@ -11,5 +11,5 @@
 M.E., Jiangnan University, 2024—2027 (expected).
 
 #### Research Interests
-模仿学习， 强化学习， 具身智能， 类人机器人， 扩散策略， 生成式机器学习， 机器人学习。
+Imitation Learning, Reinforcement Learning, Embodied Intelligence, Humanoid Robots, Diffusion Policy, Generative Machine Learning, Robot Learning.
 
